@@ -1,0 +1,2 @@
+# Project Euler
+In this repository there exists solutions to problems found at https://projecteuler.net. These problems are designed to challenge and teach, utilizing both mathematics and computer science to force the user to think outside the box.
